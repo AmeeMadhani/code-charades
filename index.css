@@ -1,0 +1,154 @@
+nav {
+    font-family: poppins;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    height: 60px;
+    padding: 0 20px;
+    font-size: 25px;
+  }
+  
+  .nav-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-icon {
+    font-size: 24px;
+    margin-right: 5px;
+  }
+  
+  .nav-text {
+    font-weight: bold;
+  }
+  
+  .heart-icon {
+    color: red;
+  }
+  
+  .nav-center {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #333;
+    margin-right: 20px;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .resource-icon {
+    font-size: 12px;
+    margin-left: 5px;
+    vertical-align: middle;
+  }
+  
+  .new-icon {
+    margin-left: auto;
+    color: blue;
+    font-weight: bold;
+  }
+  
+  .nav-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .submit-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+  }
+  
+  .plus-icon {
+    margin-right: 5px;
+  }
+
+  .stats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+  }
+  
+  .stats-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-right: 20px;
+  }
+  
+  .stats-number {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
+  .stats-description {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: -20px;
+  }
+  
+  .stats-subtitle {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .stats-image {
+    max-width: 200px;
+    margin-left: 20px;
+  }
+
+  footer {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer-text {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .footer-number {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+  }
+  
+  .footer-number text {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+
+  .img {  
+    max-width: 100%;  
+    height: auto;  
+    }  
+  
+  
+
